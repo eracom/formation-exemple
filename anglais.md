@@ -5,7 +5,6 @@ type: langues
 code: LANG1
 ---
 
-# Anglais
+# Description
 
-Descrition du cours d'anglais (objectifs, niveau...)
-
+Description du cours d'anglais (objectifs, niveau...)
