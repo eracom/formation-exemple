@@ -4,5 +4,5 @@ Un exemple de formation, utilisant le thème [Atlas](https://github.com/eracom/a
 
 Pages:
 
-- [Liste de tous les cours](liste-des-cours.html)
-- [Anglais](anglais.html) - exemple de cours
+- [Liste de tous les cours](https://code.eracom-pedagogique.ch/formation-exemple/liste-des-cours.html)
+- [Anglais](https://code.eracom-pedagogique.ch/formation-exemple/cours/anglais.html) - exemple de cours
