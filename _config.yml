@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: eracom/atlas
+title: Plan de formation
+description: Un exemple de plan de formation
+lang: fr-FR
