@@ -1,5 +1,5 @@
 ---
-title: Maths
+title: Mathématique
 layout: cours
 type: sciences
 ---
