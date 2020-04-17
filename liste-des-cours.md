@@ -1,5 +1,6 @@
 ---
 layout: liste
+title: Liste des cours
 ---
 
 # Liste de tous les cours
