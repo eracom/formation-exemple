@@ -1,5 +1,5 @@
 ---
-title: Mathématique
+title: Mathématiques
 layout: cours
 type: sciences
 periodes: 20
