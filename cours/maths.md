@@ -2,7 +2,7 @@
 title: Mathématiques
 layout: cours
 type: sciences
-periodes: 20
+periodes: 40
 ---
 
 # Description
