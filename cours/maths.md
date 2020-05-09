@@ -4,7 +4,7 @@ layout: cours
 type: sciences
 periodes: 40
 cursus:
-  - general: S1
+  - General: S1
 ---
 
 # Description
