@@ -8,4 +8,4 @@ cursus:
 
 # Description
 
-Librement écrire le descriptif...
+Descriptif du cours de français.
