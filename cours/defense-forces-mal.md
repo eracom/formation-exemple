@@ -6,7 +6,7 @@ code: DEFMAL
 periodes: 40
 cursus:
   - Dual: S1
-  - Plein-temps: S2
+  - General: S2
 competences:
   - 2.1.1: 20
   - 2.1.2: 10
