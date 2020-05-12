@@ -1,10 +1,10 @@
 ---
-layout: cursus général  
+layout: cursus  
 semestres: S1,S2,S3,S4
 formation: General
 ---
 
-# Cursus
+# Cursus général
 
 Le modèle de page "cursus" permet de voir l'organisation des cours par semestre. Cette page affiche le cursus de la formation "General". Il peut y avoir des cursus différents (formation duale, accélérée, etc).
 
