@@ -1,9 +1,11 @@
 ---
-layout: cursus
+layout: cursus général  
 semestres: S1,S2,S3,S4
 formation: General
 ---
 
 # Cursus
 
-Le modèle de page "cursus" va afficher un cursus par semestre. Cette page affiche le cursus de la formation "General". Il peut y avoir des cursus différentes (formation Dual, accélérée, etc)
+Le modèle de page "cursus" permet de voir l'organisation des des cours par semestre. Cette page affiche le cursus de la formation "General". Il peut y avoir des cursus différents (formation duale, accélérée, etc).
+
+Les paramètres sont expliqués [dans le Wiki](https://github.com/eracom/atlas/wiki/Mod%C3%A8le-de-page-%3A-cursus).
