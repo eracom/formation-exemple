@@ -19,7 +19,9 @@ profs:
 
 # Description
 
-La défense contre les forces du Mal (  Angl. *Defence Against the Dark Arts*) est un cours qui permet de se protéger, comme le dit son nom, contre les forces du Mal.
+La défense contre les forces du Mal (  Angl. *Defence Against the Dark Arts*, DCFM) est un cours qui permet de se protéger, comme le dit son nom, contre les forces du Mal.
+
+Le cours est enseigné de la première à la septième année.
 
 ## Références
 
