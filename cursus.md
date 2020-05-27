@@ -1,7 +1,8 @@
 ---
-layout: cursus  
+layout: cursus
 semestres: S1,S2,S3,S4
 formation: General
+cursus: General
 ---
 
 # Cursus général
