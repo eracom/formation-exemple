@@ -2,7 +2,7 @@
 title: Droit social
 layout: cours
 type: droit
-code: DROSO
+code: DRSOC
 periodes: 60
 credits: 10
 cursus:
