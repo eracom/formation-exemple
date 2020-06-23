@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Couleurs
 couleurs:
   code-DRSOC: LIGHTCYAN
