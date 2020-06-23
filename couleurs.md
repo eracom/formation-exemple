@@ -17,3 +17,5 @@ Les couleurs peuvent être indiquées dans deux formats:
 
 Attention: le format hexadécimal, comme #9370DB, ne peut pas être utilisé.
 
+Pour plus d'informations, voir la documentation: https://github.com/eracom/atlas/wiki/Couleurs
+
