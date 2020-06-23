@@ -1,7 +1,7 @@
 ---
 title: Astronomie
 layout: cours
-type: langues
+type: sciences
 cursus:
   - General: S3
 ---
