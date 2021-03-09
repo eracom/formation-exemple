@@ -9,6 +9,6 @@ Un exemple de plan de formation, utilisant le thème [Atlas](https://github.com/
 
 ## Documentation:
 
-Wiki explicatif: https://github.com/eracom/atlas/wiki
+👉 Wiki explicatif: https://github.com/eracom/atlas/wiki
 
-Mode d'emploi en vidéo: https://www.youtube.com/watch?v=5RT4l1X9xG4
+📺 Mode d'emploi en vidéo: https://www.youtube.com/watch?v=5RT4l1X9xG4
