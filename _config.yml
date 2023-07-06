@@ -2,5 +2,6 @@ remote_theme: eracom/atlas
 title: Plan de formation
 description: Exemple de plan de formation
 lang: fr-FR
+version: 1.3
 plugins:
   - jekyll-titles-from-headings
